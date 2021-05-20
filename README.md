@@ -55,12 +55,12 @@ Copy `example.env` to `.env` and fill it with your credentials.
    ```
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/legend76565/camilamusic/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/war-legend/camilamusic/)
 
 ## Support
 - [Helper](https://t.me/itsmelegend)
 - [Group](https://t.me/camila_support)
 ## Credits
-[abhishek] (https://t.me/itsmelegend)
+- [abhishek](https://t.me/itsmelegend)
 
 
