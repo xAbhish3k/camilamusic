@@ -2,7 +2,7 @@
     "name": "camillaMusic",
     "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
     "keywords": ["music", "voicechat", "telegram"],
-    "repository": "https://github.com/suprojects/CallsMusicHeroku",
+    "repository": "https://github.com/war-legend/camillamusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
