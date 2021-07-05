@@ -14,7 +14,7 @@
 - `/resume` to resume the playback. 
 - Inline search is also supported.
 
-- Use pyrogram string u can use @StringGenBot
+- Use pyrogram string u can use [@PyroStringSessionRobot](https://t.me/@PyroStringSessionRobot)
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
 Neither su music project , nor pytgcalls are stable
